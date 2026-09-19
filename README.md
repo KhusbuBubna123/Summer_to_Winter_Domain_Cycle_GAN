@@ -4,9 +4,9 @@ on Summer2Winter Yosemite dataset.(Source:Kaggle)
 
 # Dataset Description
 Summer2Winter Yosemite dataset ("https://www.kaggle.com/datasets/balraj98/summer2winter-yosemite") consists of 1540 Summer Photos & 1200 Winter Photos with each split into train and 
-test subsets.
+test subsets. \
 
-Acknowledgements
+**Acknowledgements ** \
 This dataset was obtained from UC Berkeley's official directory of CycleGAN Datasets. For more details on the dataset
 refer the related CycleGAN publication. Work based on the dataset should cite:
 
